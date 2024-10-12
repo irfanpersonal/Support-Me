@@ -8,7 +8,7 @@ Support Me is a web application designed to empower content creators by offering
 - [FastAPI](https://flask.palletsprojects.com/): A modern, high-performance web framework for building APIs with Python, designed for speed and ease of use, leveraging type hints for automatic validation and documentation.
 - [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/): A powerful SQL toolkit and Object-Relational Mapping (ORM) library for Python, enabling developers to interact with databases using Python objects while providing a flexible and efficient query language.
 - [Alembic](https://flask-migrate.readthedocs.io/en/latest/): A lightweight database migration tool for use with SQLAlchemy, allowing developers to manage changes to the database schema over time through version-controlled migrations.
-- [Stripe] (https://stripe.com/): A leading online payment processing platform that provides tools for accepting and managing payments for businesses, offering a wide range of APIs for seamless integration.
+- [Stripe](https://stripe.com/): A leading online payment processing platform that provides tools for accepting and managing payments for businesses, offering a wide range of APIs for seamless integration.
 - [Pydantic](https://docs.pydantic.dev/): A data validation and parsing library that ensures type safety and validation for Python data structures.
 - [Uvicorn ASGI](https://www.uvicorn.org/): A lightning-fast ASGI server for Python web applications, particularly optimized for frameworks like FastAPI and Starlette, providing asynchronous capabilities for high-concurrency performance.
 - [MySQL](https://www.mysql.com/): A widely used open-source relational database management system known for its reliability and performance.
